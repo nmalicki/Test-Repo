@@ -1,3 +1,3 @@
 # Test Repo
 
-This is my example repo.
+This is my example new repo.
